@@ -73,7 +73,7 @@ if (isset($_GET['submit'])) {
 						<input name="phone" type="number" class="form-control" id="ipPhone" value="">
 					</div>
 					<div class="form-group">
-						<label for="InputName">Nộ dung liên hệ</label>
+						<label for="InputName">Nội dung liên hệ</label>
 						<textarea name="content" class="form-control" id="textContent" rows="3" value=""></textarea>
 
 					</div>
