@@ -1,0 +1,11 @@
+.contact_header {
+  display: flex !important;
+  justify-content: center !important;
+}
+.btnContact {
+  /* margin-left: 40%; */
+  margin-left: 40%;
+  padding: 10px 30px;
+ 
+ 
+}
